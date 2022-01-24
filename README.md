@@ -29,6 +29,8 @@ Finally, our machine learning algorithm returns the relationships it sees in the
 
 Using all three principal components our machine learning returned, we can plot the data and view the relationships the computer displays for us. Now in a team setting, we could discuss ways to interpret this data. We can scrutinize the decision to have three groupings in PCA and four clusterings derived from finding the K-means of the data. We can try finding new results in Principal Component Analysis using a larger swath of data from our crypto_data.csv, or even a different subset of data columns from the whole data file. 
 
-We can already begin to create some new ideas how to invest based on these findings by seeing different trends in the pool of data on available cryptocurrencies.
+We can already begin to create some new ideas how to invest based on these findings by seeing different trends in the pool of data on available cryptocurrencies. 
 
 ![Clustered DataFrame](Resources/visualizing_clustered.png)
+
+By the way, if you apply my code to your own computer, you can hover over these various data points and you will see the name of the cryptocurrency that that data point represents.
