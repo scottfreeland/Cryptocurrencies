@@ -1,6 +1,6 @@
 # Cryptocurrencies
 
-The purpose of this analysis is to analyze a database of various crytocurrencies, utilizing the means of unsupervised machine learning. The idea is to help discover trends in order to help convince an investment firm to invest in these new currencies.
+The purpose of this analysis is to utilize the means of unsupervised machine learning in order to help form ideas about hidden relationships among cryptocurrencies, using an extensive database of various crytocurrencies. The idea is to help discover trends in order to help convince an investment firm to invest in these new currencies.
 
 ## Resources
 - Data sources: crypto_data.csv
