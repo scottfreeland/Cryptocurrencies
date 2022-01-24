@@ -9,10 +9,13 @@ The purpose of this analysis is to utilize the means of unsupervised machine lea
 ## Results
 The two major facets of enacting unsupervised learning is first cleaning the data, then second, applying machine learning algorithms to reveal various trends that exist among the data.
 
-I cleaned the data. Unsupervised machine learning requires most data be of numerical form. Only the most important identifier information is left in string form. Additionally, feeding our algorithms only the most crucial measurements with no superfluous data is integral to finding successful outcomes via unsupervised machine learning. After cleaning the initial data, I was left with only the most applicable data I could apply to our machine learning. This is what I set out to work with.
+I cleaned the data. Unsupervised machine learning requires most data be of numerical form. Only the most important identifier information is left in string form. Additionally, feeding our algorithms only the most crucial measurements with no superfluous data is integral to finding successful outcomes via unsupervised machine learning.
 
 For the record, we do not explicitly *know* what these relationships are among the data; we see *how* these relationships unfold. The *way* that the data is grouped is significant. If we see that certain cryptocurrencies tend to fluctuate with the biggest and most successful ones, we can infer that this curreny is bound to continue being reliable for time being. 
+
 However, a currency more closely associated with a more erratic and unpredictable currency is more likely to fit the bill of *unpredictable*. By association, we can begin to take a proper good sniff at the relationships in the data and plan accordingly from there.
+
+After cleaning the initial data, I was left with only the most applicable data I could apply to our machine learning. This is what I set out to work with.
 
 ![Cryptocurrenies Data Cleaned](Resources/crypto_data_cleaned.png)
 
