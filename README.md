@@ -11,6 +11,9 @@ The two major facets of enacting unsupervised learning is first cleaning the dat
 
 I cleaned the data. Unsupervised machine learning requires most data be of numerical form. Only the most important identifier information is left in string form. Additionally, feeding our algorithms only the most crucial measurements with no superfluous data is integral to finding successful outcomes via unsupervised machine learning. After cleaning the initial data, I was left with only the most applicable data I could apply to our machine learning. This is what I set out to work with.
 
+For the record, we do not explicitly *know* what these relationships are among the data; we see *how* these relationships unfold. The *way* that the data is grouped is significant. If we see that certain cryptocurrencies tend to fluctuate with the biggest and most successful ones, we can infer that this curreny is bound to continue being reliable for time being. 
+However, a currency more closely associated with a more erratic and unpredictable currency is more likely to fit the bill of *unpredictable*. By association, we can begin to take a proper good sniff at the relationships in the data and plan accordingly from there.
+
 ![Cryptocurrenies Data Cleaned](Resources/crypto_data_cleaned.png)
 
 Next, I sought to gather outcomes from Principal Component Analysis. The true meaning of these components is difficult to elaborate upon in short-form writing. Understand, in simplest form, that this computer analysis is drawing relationships among various data points, into a chosen *three* groups. This number is variable, but for our analysis, we know three groupings would allow us to see relationships among data most strongly. So, we see these relationships among the three groupings of data.
