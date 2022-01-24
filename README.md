@@ -23,7 +23,7 @@ Next, I sought to gather outcomes from Principal Component Analysis. The true me
 
 ![Principal Component Analysis](Resources/pca_analysis.png)
 
-Finally, our machine learning algorithm returns the relationships it sees in the data, numerically.
+Finally, our machine learning algorithm returns the relationships it sees in the data, numerically. It then classifies the data into *four* clusters - This has been established to be the best number of groups to've clustered the data into, as a product of K-means processing. The four classes are labeled 0, 1, 2, and 3.
 
 ![Clustered DataFrame](Resources/clustered_dataframe.png)
 
